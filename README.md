@@ -6,7 +6,7 @@
     进而可以打开“load_and_test.ipytnb”，确保“nn.pkl”已经在同一个文件夹下，然后可以直接运行，可以求得测试过程的精确度。
 
 2、直接使用现有模型进行测试：
-    我也准备已经训练好的模型，可以直接下载使用。请点击链接 https://drive.google.com/file/d/1z8hmS1rh9WV4R4sX-j4aQ168ZpU9o4IB/view?usp=sharing ，直接下载保存在网盘中的现有文件“nn.pkl”，并将该文件放入“load_and_test.ipynb”同一文件夹中，便可以直接运行“load_and_test.ipynb”，不需要下载其余的两个文件。
+    我也准备已经训练好的模型，可以直接下载使用。请点击链接 https://drive.google.com/file/d/17uzZ3Ol1OWh_3fgQH37WAYOutVTdMCRB/view?usp=sharing ，直接下载保存在网盘中的现有文件“nn.pkl”，并将该文件放入“load_and_test.ipynb”同一文件夹中，便可以直接运行“load_and_test.ipynb”，不需要下载其余的两个文件。
     
 3、注意：
 (1)加载数据集使用到了tensorflow.keras，请确保已经安装了相应环境与包；
